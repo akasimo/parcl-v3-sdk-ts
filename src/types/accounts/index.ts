@@ -5,3 +5,4 @@ export * from "./marginAccount";
 export * from "./market";
 export * from "./preciseMath";
 export * from "./settlementRequest";
+export * from "./serializers";
